@@ -57,10 +57,8 @@ public class SolverForQueensPuzzle {
          that starts -- and ends -- with that board.
      */
     private void recordSolutionsStarted() {
-            nBoardsConsidered++;
+            nBoardsConsidered++; //invoking this method means checking a board for sure
         // Which has been requested, a base case or recursive case?
-            // your code here
-            // action(s) for base case(s)
             if ( inProgress.lastIsNg()){
                 System.out.println( "  for debugging: (unsuccessful) base case detected for..."
                                   + System.lineSeparator()
