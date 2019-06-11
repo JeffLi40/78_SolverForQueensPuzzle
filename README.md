@@ -4,7 +4,7 @@
 
 ### citations / worked with / received help from
 
-* Representation of an array in the frame: Piazza @322
+* Representation of an array in the heap: Piazza @322
 
 This list may omit sources common to everyone in the course,
 including...
